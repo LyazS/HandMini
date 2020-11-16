@@ -5,3 +5,6 @@
 numpy
 opencv-python
 matplotlib
+
+# 运行
+'python main.py'
